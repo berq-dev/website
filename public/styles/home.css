@@ -1,0 +1,23 @@
+@import url(http://allfont.net/allfont.css?fonts=courier);
+
+html {
+    overflow: hidden;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.center-absolute {
+    height: 80px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 200px;
+    font-family: 'Courier', arial, serif;
+}
