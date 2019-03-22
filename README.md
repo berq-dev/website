@@ -1,5 +1,3 @@
-# Typescript Template
+# Website
 
-Typescript express template
-
-Remove empty .gitignore-files in directories and fix package.json.
+```npm start```
